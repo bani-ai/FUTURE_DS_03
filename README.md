@@ -26,6 +26,7 @@ FUTURE_DS_03_v3/
 │   └── dashboard_preview.png            # Dashboard screenshot
 ├── images/
 │   ├── funnel_overview.png
+│   ├── channel conversion map.png
 │   ├── Lead_volume_by_channel.png
 │   ├── conversion_by_channel.png
 │   ├── monthly_conversion_trend.png
