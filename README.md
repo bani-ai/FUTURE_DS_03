@@ -24,6 +24,13 @@ FUTURE_DS_03_v3/
 ├── dashboard/
 │   └── app.py                       # Interactive Plotly + Streamlit dashboard
 │   └── dashboard_preview.png            # Dashboard screenshot
+├── images/
+│   ├── funnel_overview.png
+│   ├── Lead_volume_by_channel.png
+│   ├── conversion_by_channel.png
+│   ├── monthly_conversion_trend.png
+│   ├── business_segments__won_deals_.png
+│   └── lead_behaviour_profile_analysis.png
 │
 ├── notebook/
 │   └── Analysis.ipynb               # Full EDA + funnel analysis (Jupyter)
@@ -130,6 +137,7 @@ jupyter notebook Analysis.ipynb
 ## 👤 Author
 
 Bani Priya
+
 🎓 B.Tech in Artificial Intelligence
 
 🏫 Delhi Skill and Entrepreneurship University (DSEU)
