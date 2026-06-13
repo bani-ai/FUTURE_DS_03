@@ -1,16 +1,8 @@
-# 📊 FUTURE_DS_03 (v3) — Marketing Funnel & Conversion Performance Analysis
+# 📊 FUTURE_DS_03 — Marketing Funnel & Conversion Performance Analysis
 
 **Internship:** Future Interns | Data Science & Analytics Track
 **Task:** FUTURE_DS_03 — Marketing Funnel & Conversion Performance Analysis
 **Dataset:** Olist Brazilian E-Commerce — Marketing Qualified Leads & Closed Deals
-
----
-
-## 🆕 What's New in v3
-- Dashboard rebuilt with **Plotly** (interactive, dark-theme native — no white chart boxes)
-- **Green & Cyan** professional theme
-- Cleaner KPI cards, styled tables, and insight cards
-- PNG charts and CSV datasets organised into separate folders
 
 ---
 
@@ -30,7 +22,8 @@ Analyze the marketing funnel to:
 FUTURE_DS_03_v3/
 │
 ├── dashboard/
-│   └── app.py                     # Interactive Plotly + Streamlit dashboard
+│   └── app.py                       # Interactive Plotly + Streamlit dashboard
+│   └── dashboard_preview.png            # Dashboard screenshot
 │
 ├── notebook/
 │   └── Analysis.ipynb               # Full EDA + funnel analysis (Jupyter)
@@ -48,6 +41,15 @@ FUTURE_DS_03_v3/
 ├── requirements.txt
 └── README.md
 ```
+
+---
+
+## 🖼️ Dashboard Preview
+
+<img width="1920" height="2579" alt="dashboard" src="https://github.com/user-attachments/assets/bebfe7da-ab05-466c-b47a-16b05fa0f26b" />
+
+
+> **Note:** Run the Streamlit app to explore the fully interactive version with live filters and hover tooltips.
 
 ---
 
@@ -127,5 +129,12 @@ jupyter notebook Analysis.ipynb
 
 ## 👤 Author
 
-Future Interns — Data Science & Analytics Intern
-Track Code: **DS** | Task: **FUTURE_DS_03**
+Bani Priya
+🎓 B.Tech in Artificial Intelligence
+
+🏫 Delhi Skill and Entrepreneurship University (DSEU)
+
+---
+## ⭐ Acknowledgement
+
+I would like to thank Future Interns for this internship opportunity and for designing such a practical, real-world task. Special thanks to Olist for making the dataset publicly available on Kaggle. This project helped me grow as a data analyst and think beyond the numbers toward real business solutions.
