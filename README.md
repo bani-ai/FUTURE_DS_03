@@ -30,14 +30,7 @@ Analyze the marketing funnel to:
 FUTURE_DS_03_v3/
 │
 ├── dashboard/
-│   └── app.py                       # Interactive Plotly + Streamlit dashboard
-│
-├── images/
-│   ├── funnel_overview.png
-│   ├── channel_performance.png
-│   ├── monthly_trend.png
-│   ├── behaviour_profile.png
-│   └── top_segments.png
+│   └── app.py                     # Interactive Plotly + Streamlit dashboard
 │
 ├── notebook/
 │   └── Analysis.ipynb               # Full EDA + funnel analysis (Jupyter)
@@ -77,7 +70,21 @@ FUTURE_DS_03_v3/
 | Best Channel (CR) | Paid Search — 12.3% |
 | Worst Channel (CR) | Email — 3.0% |
 | Top Business Segment | Home Decor (105 deals) |
-| Dominant Lead Profile | Cat (61.7%) |
+| Dominant Lead Profile | Cat (61.2%) |
+
+### Channel Performance
+
+| Channel | MQLs | Won | CR % |
+|---------|------|-----|------|
+| Paid Search | 1,586 | 195 | 12.3% |
+| Organic Search | 2,296 | 271 | 11.8% |
+| Direct Traffic | 499 | 56 | 11.2% |
+| Referral | 284 | 24 | 8.5% |
+| Social | 1,350 | 75 | 5.6% |
+| Display | 118 | 6 | 5.1% |
+| Other Publicities | 65 | 3 | 4.6% |
+| Email | 493 | 15 | 3.0% |
+| Other | 150 | 4 | 2.7% |
 
 ---
 
@@ -106,6 +113,7 @@ jupyter notebook Analysis.ipynb
 3. **Launch a Referral Program** — 8.5% CR with near-zero acquisition cost
 4. **Implement Lead Scoring** — prioritise high-intent leads to reduce the 89.5% drop-off
 5. **Focus on Home Decor & Health/Beauty** — consistently top-converting segments
+6. **Reallocate Display & Other Publicities budget** — CR below 5.1%, low ROI channels
 
 ---
 
